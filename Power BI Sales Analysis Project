@@ -1,0 +1,16 @@
+
+
+## Overview
+This project analyzes sales, costs, and discounts using Power BI. It includes:
+- Treemap of sales by country
+- Gauge chart for average standard cost
+- Scatter plot of discount vs. order quantity
+- Bar chart of sales by product category
+
+## Files
+- `AdvWorksData_cleaned.xlsx`: Cleaned dataset used in Power BI
+- `SalesDashboard.pbix`: Power BI dashboard file
+- `README.md`: Project documentation
+
+## Author
+Nishant — Business Analytics & Forecasting Enthusiast
